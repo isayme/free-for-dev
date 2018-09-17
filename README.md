@@ -15,6 +15,13 @@
 - [Mailgun](https://www.mailgun.com/) first 10000 emails/month free
 - [TinyLetter](https://tinyletter.com/) https://mailchimp.com/pricing/
 
+## MongoDB
+- [mLab](https://mlab.com/plans/pricing/#plan-type=sandbox)
+
+## Redis
+- [Try Redis](https://try.redis.io/)
+- [redislabs](https://redislabs.com/blog/redis-cloud-30mb-ram-30-connections-for-free/)
+
 ## MQTT
 - [CloudMQTT](https://www.cloudmqtt.com/plans.html)
 - [Eclipse Mosquitto](http://mosquitto.org/)
