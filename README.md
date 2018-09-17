@@ -1,6 +1,16 @@
 # free-for-dev
 学习新玩具时快速体验的地方
 
+## HTTP
+- [httpbin](https://httpbin.org/)
+- [httpbin in Nodejs](http://httpbin.isayme.org/)
+
+## Webhook
+- [Worktile Request](https://request.worktile.com/)
+
+## gRPC
+- [grpcbin](https://grpcb.in/) gRPC Request & Response Service
+
 ## Email
 - [Mailgun](https://www.mailgun.com/) first 10000 emails/month free
 - [TinyLetter](https://tinyletter.com/) https://mailchimp.com/pricing/
