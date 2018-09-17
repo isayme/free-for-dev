@@ -9,6 +9,7 @@
 - [CloudMQTT](https://www.cloudmqtt.com/plans.html)
 - [Eclipse Mosquitto](http://mosquitto.org/)
 - [Mosca](http://www.mosca.io/)
+- [public_brokers](https://github.com/mqtt/mqtt.github.io/wiki/public_brokers) mqtt wiki
 
 ## RabbitMQ
 - [CloudAMQP](https://www.cloudamqp.com/plans.html)
