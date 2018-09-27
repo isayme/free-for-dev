@@ -6,7 +6,8 @@
 - [httpbin in Nodejs](https://httpbin.isayme.org/)
 
 ## Node.js
-- [Now](http://now.sh/) Global Serverless Deployments
+- [Now.sh](http://now.sh/) Global Serverless Deployments
+- [Surge.sh](https://surge.sh/) Static web publishing for Front-End Developers
 
 ## Webhook
 - [Worktile Request](https://request.worktile.com/)
