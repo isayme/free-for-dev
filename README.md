@@ -5,7 +5,7 @@
 - [Cron Job Services](https://www.cronjobservices.com/) Online cron services get listed here!
 - [https://cron-job.org](https://cron-job.org)
 - [cronless](https://cronless.com)
-- [My Web Cron Service](http://mywebcron.com/)
+- [UptimeRobot](https://uptimerobot.com)
 
 ## HTTP
 - [httpbin](https://httpbin.org/)
