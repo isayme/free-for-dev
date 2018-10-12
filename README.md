@@ -42,6 +42,9 @@
 ## RabbitMQ
 - [CloudAMQP](https://www.cloudamqp.com/plans.html)
 
+## Elasticsearch
+- [bonsai](https://bonsai.io/pricing/)
+
 ## Docker
 - [Play with Docker](https://labs.play-with-docker.com/)
 
